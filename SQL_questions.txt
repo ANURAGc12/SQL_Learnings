@@ -1,0 +1,1 @@
+1. Create a simple database using sql script, file import, bak file, etc.
